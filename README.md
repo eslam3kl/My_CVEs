@@ -17,6 +17,7 @@ CVE-2021-45800
 CVE-2021-45801
 CVE-2021-46081
 CVE-2022-22837 
+CVE-2022-25542 
 ```
 
 **You can contact me anytime :)** 
